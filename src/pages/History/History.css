@@ -1,0 +1,16 @@
+.loading-process {
+  width: 100%;
+  display: block;
+  text-align: center;
+  overflow: hidden;
+  margin: auto;
+}
+
+.btn-filter {
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  border: 1px solid #0d1615;
+  background: #f7e8f6;
+  box-shadow: 1px 1px 0px 0px #0d1615;
+}

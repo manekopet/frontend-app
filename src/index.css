@@ -1,0 +1,149 @@
+@font-face {
+  font-family: "Geologica";
+  src: local("Geologica Thin"), local("Geologica-Thin"),
+    url("./assets/fonts/Geologica/static/Geologica-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Geologica";
+  src: local("Geologica ExtraLight"), local("Geologica-ExtraLight"),
+    url("./assets/fonts/Geologica/static/Geologica-ExtraLight.ttf")
+      format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Geologica";
+  src: local("Geologica Light"), local("Geologica-Light"),
+    url("./assets/fonts/Geologica/static/Geologica-Light.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Geologica";
+  src: local("Geologica Reguar"), local("Geologica-Reguar"),
+    url("./assets/fonts/Geologica/static/Geologica-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Geologica";
+  src: local("Geologica Medium"), local("Geologica-Medium"),
+    url("./assets/fonts/Geologica/static/Geologica-Medium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Geologica";
+  src: local("Geologica SemiBold"), local("Geologica-SemiBold"),
+    url("./assets/fonts/Geologica/static/Geologica-SemiBold.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Geologica";
+  src: local("Geologica Bold"), local("Geologica-Bold"),
+    url("./assets/fonts/Geologica/static/Geologica-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Geologica";
+  src: local("Geologica ExtraBold"), local("Geologica-ExtraBold"),
+    url("./assets/fonts/Geologica/static/Geologica-ExtraBold.ttf")
+      format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Geologica";
+  src: local("Geologica Black"), local("Geologica-Black"),
+    url("./assets/fonts/Geologica/static/Geologica-Black.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "JetBrainsMono";
+  src: local("JetBrainsMono Thin"), local("JetBrainsMono-Thin"),
+    url("./assets/fonts/JetBrainsMono/static/JetBrainsMono-Thin.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: local("JetBrainsMono ExtraLight"), local("JetBrainsMono-ExtraLight"),
+    url("./assets/fonts/JetBrainsMono/static/JetBrainsMono-ExtraLight.ttf")
+      format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: local("JetBrainsMono Light"), local("JetBrainsMono-Light"),
+    url("./assets/fonts/JetBrainsMono/static/JetBrainsMono-Light.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: local("JetBrainsMono Reguar"), local("JetBrainsMono-Reguar"),
+    url("./assets/fonts/JetBrainsMono/static/JetBrainsMono-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: local("JetBrainsMono Medium"), local("JetBrainsMono-Medium"),
+    url("./assets/fonts/JetBrainsMono/static/JetBrainsMono-Medium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: local("JetBrainsMono SemiBold"), local("JetBrainsMono-SemiBold"),
+    url("./assets/fonts/JetBrainsMono/static/JetBrainsMono-SemiBold.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: local("JetBrainsMono Bold"), local("JetBrainsMono-Bold"),
+    url("./assets/fonts/JetBrainsMono/static/JetBrainsMono-Bold.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "JetBrainsMono";
+  src: local("JetBrainsMono ExtraBold"), local("JetBrainsMono-ExtraBold"),
+    url("./assets/fonts/JetBrainsMono/static/JetBrainsMono-ExtraBold.ttf")
+      format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: "Geologica", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,152 @@
+<svg width="280" height="380" viewBox="0 0 280 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_2572_2741)">
+        <path d="M150 370V380H130V370H150Z" fill="black" />
+        <path d="M260 70H269.5C270.27 74.54 270.58 240.88 269.84 260H260V70Z" fill="black" />
+        <path d="M20.0001 260H10.5001C9.73007 255.46 9.42007 89.12 10.1601 70H20.0001V260Z"
+            fill="black" />
+        <path d="M90 39.9999V30.5099C94.42 29.7499 172.35 29.4699 190 30.1699V39.9999H90Z"
+            fill="black" />
+        <path d="M50 50V40H90V50H50Z" fill="black" />
+        <path d="M190 40H230V50H190V40Z" fill="black" />
+        <path d="M230 50H250V60H230V50Z" fill="black" />
+        <path d="M30 60V50H50V60H30Z" fill="black" />
+        <path d="M30 270H20V260H30V270Z" fill="black" />
+        <path d="M20 70V60H30V70H20Z" fill="black" />
+        <path d="M260 260V270H250V260H260Z" fill="black" />
+        <path d="M40 280H30V270H40V280Z" fill="black" />
+        <path d="M250 270V280H240V270H250Z" fill="black" />
+        <path d="M50 290H40V280H50V290Z" fill="black" />
+        <path d="M240 280V290H230V280H240Z" fill="black" />
+        <path d="M60 300H50V290H60V300Z" fill="black" />
+        <path d="M230 290V300H220V290H230Z" fill="black" />
+        <path d="M70 310H60V300H70V310Z" fill="black" />
+        <path d="M250 60H260V70H250V60Z" fill="black" />
+        <path d="M220 300V310H210V300H220Z" fill="black" />
+        <path d="M80 320H70V310H80V320Z" fill="black" />
+        <path d="M90 330H80V320H90V330Z" fill="black" />
+        <path d="M200 320V330H190V320H200Z" fill="black" />
+        <path d="M100 340H90V330H100V340Z" fill="black" />
+        <path d="M190 330V340H180V330H190Z" fill="black" />
+        <path d="M110 350H100V340H110V350Z" fill="black" />
+        <path d="M180 340V350H170V340H180Z" fill="black" />
+        <path d="M120 360H110V350H120V360Z" fill="black" />
+        <path d="M170 350V360H160V350H170Z" fill="black" />
+        <path d="M130 370H120V360H130V370Z" fill="black" />
+        <path d="M160 360V370H150V360H160Z" fill="black" />
+        <path d="M210 310V320H200V310H210Z" fill="black" />
+        <path d="M160 360H150V370H130V360H120V350H160V360Z" fill="#364045" />
+        <path d="M250 70H260V260H250V70Z" fill="#364045" />
+        <path
+            d="M110 340H100V330H90V320H80V310H70V300H60V290H50V280H40V270H30V260H20V230H30C30 213.36 30 197.07 30 180.78C30 180.63 30.08 180.48 30.15 180.35C30.24 180.21 30.37 180.1 30.46 180H39.99C39.99 203.08 39.99 226.16 39.99 249.25C39.99 249.39 40.07 249.55 40.16 249.67C40.25 249.8 40.4 249.89 40.52 250H49.99V270H59.99V280H69.99V290H79.99V300H89.99V310H99.99V320H159.99V330.13H139.89V340H109.99H110Z"
+            fill="#7B7E7F" />
+        <path
+            d="M20 70H30V60H50V50H80V60H60V70H50V80H40V100H30C30 116.64 30 132.93 30 149.22C30 149.37 29.92 149.52 29.85 149.65C29.76 149.79 29.63 149.9 29.54 150H20.01V70H20Z"
+            fill="#DEE5E8" />
+        <path
+            d="M20 150H29.53C29.62 149.9 29.75 149.79 29.84 149.65C29.92 149.52 29.99 149.36 29.99 149.22C29.99 132.93 29.99 116.64 29.99 100H39.99V180H30.46C30.37 180.1 30.24 180.21 30.15 180.35C30.07 180.48 30 180.64 30 180.78C30 197.07 30 213.36 30 230H20V150Z"
+            fill="#ADB9BF" />
+        <path d="M190 40V50H90V40H190Z" fill="#ADB9BF" />
+        <path d="M80 60V50H90V60H80Z" fill="#ADB9BF" />
+        <path d="M90 60V50H230V60H250V120H240V80H230V70H190V60H90Z" fill="#7B7E7F" />
+        <path d="M250 270H240V260H250V270Z" fill="#364045" />
+        <path d="M240 280H230V270H240V280Z" fill="#364045" />
+        <path d="M230 290H220V280H230V290Z" fill="#364045" />
+        <path d="M220 300H210V290H220V300Z" fill="#364045" />
+        <path d="M210 310H200V300H210V310Z" fill="#364045" />
+        <path d="M200 310V320H190V310H200Z" fill="#364045" />
+        <path d="M190 330H180V320H190V330Z" fill="#364045" />
+        <path d="M180 340H170V330H180V340Z" fill="#364045" />
+        <path
+            d="M180 330H170V340H160V350H110V340H139.9V330.13H160V320H170V310H180V300H190V290H200V280H210V270H220V260H230V250H240V120H250V260H240V270H230V280H220V290H210V300H200V310H190V320H180V330Z"
+            fill="#546066" />
+        <path d="M160 350V340H170V350H160Z" fill="#364045" />
+        <path
+            d="M40 180V80H50V250H40.53C40.41 249.89 40.27 249.8 40.17 249.67C40.08 249.55 40 249.39 40 249.25C40 226.17 40 203.09 40 180Z"
+            fill="black" />
+        <path d="M170 310V320H110V310H170Z" fill="black" />
+        <path d="M50 260V250H60V260H50Z" fill="black" />
+        <path d="M50 260H60V270H50V260Z" fill="#ADB9BF" />
+        <path d="M70 280H60V270H70V280Z" fill="#ADB9BF" />
+        <path d="M80 290H70V280H80V290Z" fill="#ADB9BF" />
+        <path d="M90 300H80V290H90V300Z" fill="#ADB9BF" />
+        <path d="M100 310H90V300H100V310Z" fill="#ADB9BF" />
+        <path d="M110 310V320H100V310H110Z" fill="#ADB9BF" />
+        <path d="M50 80V70H90V80H50Z" fill="black" />
+        <path d="M80 70H60V60H80V70Z" fill="#ADB9BF" />
+        <path d="M80 70V60H90V70H80Z" fill="#7B7E7F" />
+        <path d="M240 120V250H230V80H240V120Z" fill="black" />
+        <path d="M90 70V60H190V70H90Z" fill="black" />
+        <path d="M190 70H230V80H190V70Z" fill="black" />
+        <path d="M230 250V260H220V250H230Z" fill="black" />
+        <path d="M220 260V270H210V260H220Z" fill="black" />
+        <path d="M210 270V280H200V270H210Z" fill="black" />
+        <path d="M200 280V290H190V280H200Z" fill="black" />
+        <path d="M190 290V300H180V290H190Z" fill="black" />
+        <path d="M180 300V310H170V300H180Z" fill="black" />
+        <path
+            d="M50 240V90H90V80H120V90H110V100H100V110H90V120H80V130H70V140H60.17C59.59 154.15 59.79 175.87 60.51 180H70V200H80V220H90V240H100V260H110V280H120V290H130V300H110V290H100V280H90V270H80V260H70V250H60V240H50Z"
+            fill="#91F9FF" />
+        <path d="M90 80V90H50V80H90Z" fill="#DAFDFF" />
+        <path d="M50 240H60V250H50V240Z" fill="#37B6BD" />
+        <path d="M110 300H170V310H110V300Z" fill="#37B6BD" />
+        <path d="M60 250H70V260H60V250Z" fill="#37B6BD" />
+        <path d="M60 260H70V270H60V260Z" fill="black" />
+        <path d="M80 280H70V270H80V280Z" fill="black" />
+        <path d="M90 290H80V280H90V290Z" fill="black" />
+        <path d="M100 300H90V290H100V300Z" fill="black" />
+        <path d="M110 300V310H100V300H110Z" fill="black" />
+        <path d="M120 80H90V70H190V80H120Z" fill="#DAFDFF" />
+        <path
+            d="M160 80H190V90H230V240H220V250H210V260H200V270H190V280H180V290H170V300H150V290H160V280H170V260H180V240H190V220H200V200H210V180H219.83C220.41 165.85 220.21 144.13 219.49 140H210V130H200V120H190V110H180V100H170V90H160V80Z"
+            fill="#91F9FF" />
+        <path d="M230 90H190V80H230V90Z" fill="#DAFDFF" />
+        <path d="M220 250V240H230V250H220Z" fill="#37B6BD" />
+        <path d="M210 260V250H220V260H210Z" fill="#37B6BD" />
+        <path d="M200 270V260H210V270H200Z" fill="#37B6BD" />
+        <path d="M190 280V270H200V280H190Z" fill="#37B6BD" />
+        <path d="M180 290V280H190V290H180Z" fill="#37B6BD" />
+        <path d="M170 300V290H180V300H170Z" fill="#37B6BD" />
+        <path d="M160 80V90H120V80H160Z" fill="#52DAE1" />
+        <path d="M70 180H60.51C59.79 175.87 59.59 154.15 60.17 140H70V180Z" fill="#52DAE1" />
+        <path d="M80 200H70V180H80V200Z" fill="#52DAE1" />
+        <path d="M100 240H90V220H100V240Z" fill="#52DAE1" />
+        <path d="M90 220H80V200H90V220Z" fill="#52DAE1" />
+        <path d="M150 290V300H130V290H150Z" fill="#52DAE1" />
+        <path d="M110 260H100V240H110V260Z" fill="#52DAE1" />
+        <path d="M120 280H110V260H120V280Z" fill="#52DAE1" />
+        <path d="M90 120V110H100V120H90Z" fill="#52DAE1" />
+        <path d="M80 130V120H90V130H80Z" fill="#52DAE1" />
+        <path d="M70 140V130H80V140H70Z" fill="#52DAE1" />
+        <path d="M80 270H70V260H80V270Z" fill="#37B6BD" />
+        <path d="M90 280H80V270H90V280Z" fill="#37B6BD" />
+        <path d="M100 290H90V280H100V290Z" fill="#37B6BD" />
+        <path d="M130 290H120V280H130V290Z" fill="#52DAE1" />
+        <path d="M110 300H100V290H110V300Z" fill="#37B6BD" />
+        <path d="M110 100V90H120V100H110Z" fill="#52DAE1" />
+        <path d="M100 110V100H110V110H100Z" fill="#52DAE1" />
+        <path d="M210 140H219.49C220.21 144.13 220.41 165.85 219.83 180H210V140Z" fill="#52DAE1" />
+        <path d="M210 180V200H200V180H210Z" fill="#52DAE1" />
+        <path d="M200 200V220H190V200H200Z" fill="#52DAE1" />
+        <path d="M190 220V240H180V220H190Z" fill="#52DAE1" />
+        <path d="M180 240V260H170V240H180Z" fill="#52DAE1" />
+        <path d="M170 260V280H160V260H170Z" fill="#52DAE1" />
+        <path d="M170 100H180V110H170V100Z" fill="#52DAE1" />
+        <path d="M180 110H190V120H180V110Z" fill="#52DAE1" />
+        <path d="M190 120H200V130H190V120Z" fill="#52DAE1" />
+        <path d="M200 130H210V140H200V130Z" fill="#52DAE1" />
+        <path d="M160 280V290H150V280H160Z" fill="#52DAE1" />
+        <path d="M160 90H170V100H160V90Z" fill="#52DAE1" />
+        <path d="M100 110H110V100H120V90H140V170H70V140H80V130H90V120H100V110Z" fill="#DAFDFF" />
+        <path d="M140 170V90H160V100H170V110H180V120H190V130H200V140H210V170H140Z" fill="#F4FEFF" />
+        <path d="M70 170H140V290H130V280H120V260H110V240H100V220H90V200H80V180H70V170Z"
+            fill="#BDFAFD" />
+        <path d="M140 290V170H210V180H200V200H190V220H180V240H170V260H160V280H150V290H140Z"
+            fill="#DAFDFF" />
+    </g>
+    <defs>
+        <clipPath id="clip0_2572_2741">
+            <rect width="280" height="380" fill="white" />
+        </clipPath>
+    </defs>
+</svg>
+    

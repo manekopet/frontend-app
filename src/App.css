@@ -1,0 +1,182 @@
+.App {
+  text-align: center;
+}
+
+body > #root {
+  height: 100vh;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.infinite-scroll-component__outerdiv {
+  width: 100% !important;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.app-bar-sidebar {
+  display: contents !important;
+}
+
+.MuiDrawer-paper {
+  width: 100% !important;
+  background: #f7e8f6 !important;
+}
+
+.list-pet-sidebar {
+  text-align: center;
+}
+
+.list-my-pet {
+  display: inline-flex;
+  height: 100%;
+  padding: 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  border: 1px solid #0d1615;
+  background: #fff;
+  box-shadow: 1px 1px 0px 0px #0d1615;
+  margin-top: 10px;
+  margin: auto;
+}
+
+.hcm-tooltip-base-bottom {
+  border-radius: 10px !important;
+  border: 1px solid #0d1615 !important;
+  background: #fff !important;
+  box-shadow: 1px 1px 0px 0px #0d1615 !important;
+}
+
+.title-mark {
+  color: #0d1615;
+  font-family: "Geologica";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.07px;
+}
+
+.Mui-disabled {
+  background-color: transparent !important;
+}
+
+.body-mark {
+  color: #0d1615;
+  font-family: "Geologica";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.07px;
+}
+
+.list-items-pet {
+  width: 100%;
+}
+
+.header-sidebar {
+  padding: 0 !important;
+}
+
+.input-pet-name input {
+  border-radius: 10px;
+  background: #fff;
+  width: 335px;
+  height: 52px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  /* border: 1px solid #0D1615; */
+  text-align: center;
+}
+
+.wrap-image {
+  border-radius: 60px;
+  border: 1px solid #0d1615;
+  background: #d3e4fe;
+  box-shadow: 1px 1px 0px 0px #0d1615;
+  width: 39px;
+  height: 39px;
+  flex-shrink: 0;
+}
+
+.grid-activities {
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+.wrap-image img {
+  max-width: 30px !important;
+  margin: auto;
+  display: block;
+  /* margin-top: 5px; */
+}
+
+.btn-action-pet {
+  justify-content: right;
+}
+
+.spin-action {
+  border-radius: 10px !important;
+  border: 1px solid #0d1615 !important;
+  background: #fed3e7 !important;
+  box-shadow: 1px 1px 0px 0px #0d1615 !important;
+  display: flex;
+  width: 100%;
+  padding: 17px 16px !important;
+  justify-content: center !important;
+  align-items: center !important;
+  color: black !important;
+}
+
+.select-nft {
+  background: #d3fbfe !important;
+}
+
+.list-items-pet .MuiListItem-root {
+  border-radius: 10px;
+  border: 1px solid #0d1615;
+  /* background: #D3FBFE; */
+  box-shadow: 1px 1px 0px 0px #0d1615;
+  width: 100%;
+  display: flex;
+  padding: 12px 14px;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
